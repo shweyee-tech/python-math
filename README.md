@@ -1,2 +1,2 @@
-# python-math
-# Physics &amp; Math Calculator (Python) 
+# Python-math
+
